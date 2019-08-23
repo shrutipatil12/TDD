@@ -1,0 +1,46 @@
+{
+    "person": [
+        {
+            "firstName": "AAAA",
+            "lastName": "A",
+            "address": "fdfafaf",
+            "ID": 2,
+            "zipCode": 511
+        },
+        {
+            "firstName": "Sss",
+            "lastName": "Ass",
+            "address": "Bangaluru",
+            "ID": 45,
+            "zipCode": 789654
+        },
+        {
+            "firstName": "EE",
+            "lastName": "dfd",
+            "address": "Nasik",
+            "ID": 9,
+            "zipCode": 911
+        },
+        {
+            "firstName": "Dfsd",
+            "lastName": "dfd",
+            "address": "Nasik",
+            "ID": 9,
+            "zipCode": 11
+        },
+        {
+            "firstName": "AhjbhAAA",
+            "lastName": "hjhbA",
+            "address": "fdhjhsdsadajfafaf",
+            "ID": 21,
+            "zipCode": 1
+        },
+        {
+            "firstName": "NN",
+            "lastName": "sjhbA",
+            "address": "fdhjhjfafaf",
+            "ID": 21,
+            "zipCode": 2011
+        }
+    ]
+}

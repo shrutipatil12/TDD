@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.2.0"
+    "fs": "0.0.1-security",
+    "mocha": "^6.2.0",
+    "readline-sync": "^1.4.10"
   }
 }
